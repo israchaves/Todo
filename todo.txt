@@ -1,0 +1,82 @@
+(A) Cuentas +Kiwi
+Plataforma Inglés Skype +Personales
+Registrarme como investigador UCR +ARCOS
+(D) Comprar bolsas grandes +Kiwi
+Luces con la voz +Personales @DIY
+(C) Catálogo de Backdrops, ambientaciones y props +Kiwi
+(C) Catálogo de costos de transporte a diferentes lugares +Kiwi
+(C) Enviar el catálogo de correos a Laura de la boda de Ana Carolina +Kiwi
+(D) Sitio Web  +Kiwi
+(B) Kiwi 3.0 diseño  +Kiwi
+(B) Software propio  +Kiwi
+Placas para el torso @Humanoide +ARCOS
+(B) Calibrar impresora 3D +Personales
+Arreglar regalo de fotos de @Jiggly +Personales
+Aprender Emacs +Personales
+Diseño actualizado del @Humanoide +ARCOS
+Analizar facerig y FaceSDK para usar con @software +Kiwi
+Averiguar procedimientos para que un proyecto sea y venda para la @UCR +ARCOS
+Cómo leer códigos de barras (como la aplicación de Karol) @DIY +Personales
+Cómo desarrollar un app que convierta las palabras de un expositor a LESCO  +Personales @software
+Aprender Canva para publicaciones +Kiwi
+Comandos de voz a instrucciones de código @DIY +Personales
+Pensar en hacer un contrato por medio de un formulario para +Kiwi
+Estudiar Git y pasar repo a python3 +ARCOS
+Cómo crear lluvia de palabras a partir de un archivo de texto, para usar en talleres y etc +SocialShot
+Cortinas automáticas @DIY +Personales
+(C) Definir circuito y alternador (avanzar) @UCR @EIM +BiciGenerador
+Pensar en talleres y charlas para aportar a @Mecánica @UCR note:jaE.txt
+Cargador inalámbrico @DIY +Personales
+Usar kbc to control robot with 3dconexxion mouse +ARCOS
+(A) Código del visualizador del @DualCMap +ARCOS
+(B) Arreglar librero  @Jiggly +Personales
+(D) LED Wall  @DIY +Kiwi
+Pensar en proyecto de extensión con escáner e impresión 3D para Mecánica de impresión de prótesis de perros @UCR
+Mi propio trackball incrustado en un escritorio y con una esfera más grande @DIY +Personales
+Clave Mailchimp +Kiwi
+Revisar kit de engranes de microjpm +Personales
++Personales Arreglar bluetooth debian
+(A) +Kiwi Software para compartir las fotos
+Ev3dev para programar EV3  @software +Personales
+Juego Rollercoaster +Personales @Jiggly
+Crear un sitio web con la agenda estilo el de Iwobi, hecho en WordPress, con enlaces de los expositores y talleres +SocialShot
+Cómo incluir videos, animaciones, y gifs en presentaciones +Personales @UCR
+Definir clases y proyectos a trabajar por cada sesión del curso +RobóticaLatina
+Guías de clase de cada curso, enviarlas al asistente +RobóticaLatina
+Pensar en usar Clickers para laa clases @UCR
+Software a probar kivy, digikam, entangle, rtiacquire +Kiwi
+Hashtag Wall Instagram +Kiwi note:9kZ.txt
+Llevar el adaptador de HDMI a VGA a la latina +RobóticaLatina
+(B) Buscar las nuevas ruedas para el robot  en Andymark y Roboshop +ARCOS @Humanoide due:2018-09-28
+(B) Cotizar cargadores y decirle a Diosara  +RobóticaLatina
+Seguimiento al correo de graduación en limón el 9 de noviembre dmorap15 gmail.com +Kiwi
+Aprender de pensamiento visual  +Personales
+Reimprimir fotos de regalo de cumpleaños  @Jiggly
+Subir fotos y videos para Diosara +RobóticaLatina
+Pensar en los proyectos para este semestre y pasarle las cotizaciones a Jhymmer para que la escuela se los dejé +Mecanica @UCR
+Pensar en qué pedirle a Enertiva, visita técnica, charlaa, etc  @UCR +Mecanica
+Configurar o revisar la configuración del dhclient -R wlp3s0 para conectarse al wifi del lab +ARCOS
+(B) Renders y videos del ARCOSBOT en los escenarios +ARCOS due:2018-09-23
+Poner videos de emprendimientos nacionales en los tiempos muertos del evento  +SocialShot
+Pensar en que los proyectos del curso resuelvan problemas reales, sociales y/o ambientales  +IM0412 @UCR
+Pensar en un paño chiva de baño para regalo  @Jiggly
+2018-09-21 Estudiar @Coursera +Personales
+Revisar el software de inventario, boletas y formularios de Excel con Julio @RID +TI-EIM
+Revisar instalación de SolidWorks para los laboratorios +TI-EIM
+Revisar el documento de Dimas +PG
+{2018.09.27} Formulario MeetUp +SocialShot
+Revisar la lotería de las visas para USA +Personales @Jiggly
+Hablar con el encargado del taller EIE para preguntarle por los equipos para el curso +IM0412
+Revisar las fuentes, componentes, multímetros, osciloscopios del laboratorio +IM0412
+{2018.10.11} Contrato Ferra +Kiwi
+{2018.10.10} Incluir torso en los renders @Humanoide +ARCOS
+{2018.10.11} Fechas en el calendario y el excel de fechas +Kiwi
+{2018.10.10} Revisar y enviar correcciones a Dimas +PG
+{2018.10.23} Mejoras y cambios al formulario +SocialShot
+{2018.10.23} Arreglar Nextcloud +Personales
+{2018.10.23} Responder oficio con solicitud de plaza +Mecanica @UCR
+{2018.10.24} Planear gira de Principios +IM0401 @Alajuela
+{2018.10.26} Averiguar todo del Régimen Académico y qué puedo presentar para subir +Personales @UCR
+Comenzar a usar Duolingo para Alemán e Inglés +Personales
+Para conectar la compu de dcmap con la compu de la mano se usa ensp50
+{2018.10.23} Contactar a la traductora de LESCO +SocialShot

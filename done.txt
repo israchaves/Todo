@@ -1,0 +1,211 @@
+x 2018-09-21 Estudiar +RoboticsSpecialization
+x 2018-09-21 Incluir una fecha de entrega de la lista de componentes proyectos +IM0412 @UCR
+x 2018-09-21 Revisar correo de coordinacion +ARCOS
+x 2018-09-21 Poner alarma para llamarla a las lunes, martes y viernes  @Jiggly 6:20
+x 2018-09-21 Escribirle a Elías y Jimmy para una reunión la otra semana +PG
+x 2018-09-05 Completar el formulario de GEW con el evento nuestro +SocialShot
+x 2018-09-05 Ayudar con el acomodo del taller de +Mecanica @UCR
+x 2018-09-05 Declaración Jurada Nueva +Mecanica @UCR
+x 2018-09-05 Reunión con Pamela Asistente +IM0412
+x (B) 2018-08-19 Ventiladores  @Jiggly +Personales
+x 2018-08-18 +SocialShot Conseguir video y fotos de Eli
+x 2018-08-18 Carta de Referencia y de compromiso del lab con Fede +Maestría @UCR
+x 2018-08-18 Hacer los entornos virtuales +Mecanica @UCR due:2018-08-12
+x 2018-08-18 Elegir lugar para el paseo del domingo +Personales @Jiggly
+x 2018-08-18 Llamar al SEP a preguntar si tengo que volver a sacar el certificado de notas +Maestría
+x 2018-07-30 Libro de tuberías y turbomáquinas para Yanicelli @UCR
+x 2017-11-16 (A) 2017-09-20 Info al asistente +IM0412
+x 2017-11-15 (C) 2017-09-20 Enviar a Xavier info Segway +UCR
+x 2017-11-16 2017-09-14 Montar trello con Brian @ARCOS +BaseMóvil
+x 2017-11-15 Estudiar +CursoVIVA
+x 2017-11-15 Terminar de setear https://calendly.com/event_types/personal +ARCOS
+x 2017-11-15 Regalos Sofi +Personales
+x 2017-11-16 Meter fórmulas de Routh Hurwitz en el formulario del I Parcial +IE0409
+x 2017-11-15 Terminar y subir práctica I Parcial +IE0409
+x 2017-11-24 (A) Revisar Avance 2  +IE0409
+x 2017-11-24 (A) Revisar Exámenes +IE0409
+x 2017-11-24 Hacer machotes de contratos para cada paquete +Kiwi
+x 2017-11-24 Pedirle diseños actualizados a Luisillo +ARCOSBaseMovil
+x 2017-11-24 Responder pendientes y actualizarme con +Kiwi
+x 2017-11-24 Seguimiento Yira Alfaro +Kiwi
+x 2017-11-24 2017-08-03 Probar luces +Kiwi
+x 2017-11-29 (C) Gira Intel +IM0412
+x 2017-11-29 (B) Elegir lugar gira para el 4 de diciembre +IM0401
+x 2017-12-03 Setear fechas de entregas de cursos @UCR
+x 2017-12-03 Cronograma +ExpoIngenieria
+x 2017-12-03 Dar solución tarea larga 2 al asistente +IE0409
+x 2017-12-03 Depositarle a Macri lo de la pizza 2400
+x 2017-12-04 (B) Revisar Laboratorios +IE0409
+x 2017-12-04 (A) Revisar II Parcial @IM0401
+x 2017-12-05 (B) Revisar Laboratorios +IE0409
+x 2017-12-05 (B) 2017-09-14 Enviar correcciones proyectos de graduacion +UCR
+x 2017-12-05 (A) Revisar II Parcial @IM0401
+x 2017-12-05 (A) Subir Tabla Evaluación   +IM0412
+x 2017-12-07 (C) Vestido @Jiggly due:2017-12-06
+x 2018-01-01 Regalos navideños Amazon  +Personales
+x 2018-01-01 Revisar II Parcial +IM0412
+x 2018-01-01 Preparar Ampliación  +IE0409
+x 2018-01-01 Revisar Avances y laboratorios   +IM0412
+x 2018-01-01 Revisar correcciones I Parcial +IM0401
+x 2018-01-03 Regalo Diego +Personales
+x 2018-01-05 Enviar correos +Kiwi
+x 2018-01-05 Lista para evento 6 de enero +Kiwi
+x 2018-01-05 Contrato para el 20 de enero +Kiwi
+x 2018-01-05 Actualizar calendario 2018 +Kiwi
+x 2018-01-09 Enviar propuesta de Wed. Pack a la gente de Tek Experts +Kiwi
+x 2018-01-09 Correo a Marcela Themas +Kiwi
+x 2018-01-15 Revisar linux para poder actualizar e instalar cosas +Personales
+x 2018-01-15 3Dmouse en debian +Personales
+x 2018-01-17 Revisar opciones de tour +Personales
+x 2018-01-18 Revisar sincronización de tareas con el celular +Personales
+x 2018-01-18 (A) Comprar betún café +Personales
+x 2018-01-18 Datos de contrato y cuentas para la novia del 3 de febrero +Kiwi
+x 2018-01-22 Correo Sala de Eventos Beso y fotografía normal +Kiwi
+x 2018-01-22 Corregir la actualización automática de aplicaciones +Personales
+x 2018-01-22 Corregir plantillas de +Kiwi
+x 2018-01-22 Correo al colegio Don Bosco +Kiwi
+x 2018-01-23 Revisar trabajo de Daniel Ortuño +ARCOS
+x 2018-01-23 Repositorio del robot humanoide +ARCOS
+x 2018-01-24 Folletos física @Diego  +Personales t:2018-01-24
+x 2018-01-25 Contacto con Hugo para placas
+x 2018-01-27 Configurar entregas de cada laboratorio en mediación virtual +IM0412
+x 2018-01-26 Comprar helado  +Personales
+x 2018-01-29 Condicionar el formulario a 25 personas y mensaje después +SocialShot
+x 2018-02-05 Traducir notas del TEC @Alemania +Personales
+x 2018-02-05 Petición de Diego para Tita +Personales
+x 2018-02-05 Escanear y enviar título @Alemania +Personales
+x 2018-02-05 Preparar e imprimir examen +IM0412
+x 2018-02-05 Revisar hub station +DIY
+x 2018-02-05 Service manual KUKA +ARCOS
+x 2018-02-06 Trackear proyecto +ExpoIngenieria
+x 2018-02-08 Lista de estudiantes a Intel @IM0412
+x 2018-02-08 Revisar guías de laboratorios anteriores +IM0412
+x 2018-02-20 Cortinas automáticas +DIY
+x 2018-02-20 Flores para el 14 que le lleguen a @Jiggly +Personales
+x 2018-02-20 Revisar exámenes +IM0412
+x 2018-02-20 Lista de medidas de partes, equipos y componentes para el @Humanoide +ARCOS
+x 2018-02-21 2017-05-11 My hero academy @Anime +Personales
+x 2018-02-21 2017-05-16 Métricas Sitio Web +SocialShot
+x 2018-02-21 2017-06-24 LifePrint Augmented Reality Wireless Photo Printer http://fancy.to/flj18h +Kiwi
+x 2018-02-21 Capacitores para ventiladores de @Jiggly +Personales
+x 2018-03-06 Documentar repositorios y cuales están funcionando y cuáles faltan de los proyectos +ARCOS
+x 2018-03-06 Enviar carta borrador a Arys @Alemania +Personales
+x 2018-03-06 Comparar todo txt con taskwarrior
+x 2018-03-06 Revisar programas que no sirvan en debian +Personales
+x 2018-03-06 PDF 2018 +Kiwi
+x 2018-03-07 Proyecto Daniel Ortuño @UCR
+x 2018-03-10 Notas Finales +IM0412
+x 2018-03-16 Cerrar actas verano con los de alajuela +IM0412
+x 2018-04-09 Cotizar y montar propuesta para Centroamerica +Kiwi
+x 2018-04-04 Revisar contactos del celular +Personales
+x 2018-04-04 Ganchos y seguros para el librero de @Jiggly +Personales
+x 2018-04-04 Mezclar todo txt con Trello
+x 2018-04-04 Buscar cables largos de silicon para micro usb en Amazon +Personales
+x 2018-04-04 Matrícula curso de didáctica universitaria  @UCR
+x 2018-04-04 Cerrar actas +IM0412
+x 2018-04-04 Acordarle a Fede el domingo de la carta para @Alemania
+x 2018-04-09 Cambiar fondos de escritorio +Personales
+x 2018-04-09 Cómo usar el mismo mouse y teclado en linux y windows al mismo tiempo
+x 2018-04-13 Programas de los módulos de robótica para @RealMadrid
+x 2018-05-08 Traer y alistar bolita, lapiceros, y cosas para la oficina de Mecanica +Personales @UCR
+x 2018-05-08 Clave Mailchimp +Kiwi
+x 2018-05-08 Firmar plan de trabajo Alajuela @UCR
+x 2018-05-11 Pago examen alemán +Personales
+x 2018-05-11 Revisar proyectos que podrían hacer paper para la conferencia del 30 de abril
+x 2018-06-04 Paper +CapMapARCOS
+x 2018-06-04 Datos y cifras por año para Yerlin +SocialShot
+x 2018-06-04 Enviar versión corregida del documento de word a Eugenio @UCR +PG
+x 2018-05-19 Preparar Charla Arduino @UCR +Personales t:2018-04-17
+x 2018-06-22 Cronogramas de los  +PG y listar los estudiantes  @UCR
+x 2018-05-19 Lista de compras componentes Alajuela @UCR +Mecanica
+x 2018-06-04 Factura lentes +Personales
+x 2018-06-04 Traer parlante azul de Transformers para la oficina de mecánica +Personales
+x 2018-06-22 Tutoriales y guías de Modelica y MATLAB para +IE0409 @UCR
+x 2018-06-22 Probar Hokuyos con @ROS @Humanoide +ARCOS
+x 2018-06-22 Pensar en una gira para  +IE0409
+x 2018-06-25 $65 fondo liso con ramas, alfombra y mantel; $30 sólo el fondo con ramas +Kiwi
+x 2018-07-11 prueba note:FTr.txt
+x 2018-07-11 Plano de la placa a cortar para Fede @Humanoide +ARCOS
+x 2018-07-11 +SocialShot Formulario taller de Juego
+x 2018-07-12 +SocialShot Corregir formulario
+x 2018-07-12 Mezclar Asana con Todo.txt +SocialShot
+x 2018-07-14 +Kiwi Encontrar dongle teclado azul
+x 2018-07-16 Notas +IE0409
+x 2018-07-17 Reservar lugar  +ARCOS @IWOBI
+x 2018-07-17 Revisar laboratorios +IE0409 @UCR
+x 2018-07-17 Definir mi horario COMPLETO +Personales
+x 2018-07-17 Enviar lista de estudiantes a @Diosara +RobóticaLatina
+x 2018-07-17 Juego Rollercoaster  +Personales @Jiggly
+x 2018-07-17 Vestimenta  @IWOBI +Personales
+x 2018-07-17 +IM0412 Revisar examenes
+x 2018-07-17 Notas +IM0412 @Alajuela
+x 2018-07-17 Notas +IM0412 @SanPedro
+x 2018-07-17 Escribirle a Isaac cosi +RobóticaLatina
+x 2018-07-20 Bases de datos en drive +SocialShot
+x 2018-07-20 Pedir el 1 de setiembre de vacaciones +RobóticaLatina
+x 2018-07-20 Preguntas examen final de reposición @UCR +IE0409
+x 2018-07-20 Pedir que instalen bien el software de EV3  +RobóticaLatina
+x 2018-07-20 JD tiene mi bolsa negra de la conferencia @IWOBI +Personales
+x 2018-07-30 Revisar examen de reposición +IE0409
+x 2018-07-30 Preguntarle a Mariano por la cotización de cerveza +Personales
+x 2018-07-30 Planear examen de ampliación +IE0409
+x 2018-08-03 Pensar en Atril o algo para poner la pizarra +SocialShot
+x 2018-08-03 Modificar formulario de retroalimentación +SocialShot
+x 2018-08-03 Correo a Alexis +Personales
+x 2018-08-03 Agregar 35 dólares al paquete de boda para la gente de Puriscal +Kiwi
+x 2018-08-03 Buscar coordinador para la Feria Vocacional +ARCOS
+x 2018-08-03 Agendar reunión antes del próximo miércoles con Fede +Personales @Maestría @UCR
+x 2018-08-08 Usar Blender para tutoriales de +IE0409
+x 2018-08-08 Editar pieza del motor del torso, con las medidas reales de la cara del eje  +ARCOS @Humanoide due:2018-08-10
+x 2018-08-10 Feria Vocacional @UCR
+x 2018-08-10 Aprender Markdown
+x 2018-08-10 Revisar gitpitch +Personales
+x 2018-08-10 Pegar la pizarra de la oficina con cinta x2 lados +Personales
+x 2018-08-10 Activar el click del touchpad +Personales
+x 2018-08-11 Revisar tesis +PG
+x 2018-08-11 prueba t: t:2018-09-01
+x 2018-08-17 Recoger y entregar Declaración Jurada en San Pedro @Mecánica @UCR
+x 2018-08-20 Enviar el programa del curso a Herlin Castro @Alajuela +Mecanica due:2018-08-17
+x 2018-08-20 Presentar el original del título en Cargas Académicas de San Pedro @UCR due:2018-08-20
+x 2018-08-21 Seguimiento al contrato de inversionesjimenez baile de graduación +Kiwi
+x 2018-08-28 Comprar paquete de toallas @Jiggly due:2018-08-21
+x 2018-08-28 Poner las fechas de exámenes en ambos entornos virtuales, sin que calcen el 12 de set ni el 14 de nov +Mecanica @UCR @Alajuela
+x 2018-08-29 Volver a hacer la declaración jurada poniendo Coordinador de Laboratorios y Taller +Mecanica @UCR
+x 2018-09-20 Venir a Heredia a hacer inventario completo+RobóticaLatina
+x 2018-09-20 Contrato 15 de setiembre +Kiwi
+x 2018-09-20 +Personales Configurar Debian
+x 2018-09-20 Hablar con Fernando o Rebeca, de IQ para saber qué máquinas podrían generarnos un flujo para el proyecto de David y Máquina +PG +Mecanica
+x 2018-09-20 Anunciar que la clase del 20 de setiembre será en el aula 205 para ambos grupos +IM0412
+x 2018-09-20 Clave para el entorno de Electrónica es Electro218 +IM0412
+x 2018-09-20 Clave entorno de principios Principios18 +IM0412 @Alajuela @UCR
+x 2018-09-20 Montar horario completo incluyendo Coursera y TODO lo que tengo +Personales
+x 2018-09-20 Para mayor información: omena@yoemprendedor.net ó 70732864 +SocialShot
+x 2018-09-20 Pensar en herramientas que me ayuden con las nuevas tareas de encargado de TI para +Mecanica @UCR
+x 2018-09-20 Hablar con Priscila de que no soy RID formalmente +LabsMecanica
+x 2018-09-20 Revisar paquete para Limón +Kiwi
+x 2018-09-20 Revisar y probar en serio Taskwarrior +Personales
+x 2018-09-24 {2018.09.21} Uber Papi +Personales
+x 2018-09-28 {2018.09.27} Factura Electronica +Personales
+x 2018-09-28 {2018.09.27} Armar la compu de Marcia +TI-EIM
+x 2018-10-01 {2018.09.28} I Parcial +IM0401
+x 2018-10-01 Revisar Bocetos de Elías y sensores de Glenda +PG +Mecanica
+x 2018-10-01 Pasar juegos de una tablet a otra @Mami +Personales
+x 2018-10-01 Ser puente entre los trabajos de graduación de eléctrica con mecánica y viceversa, hablar con Fede y con Gabriel  @UCR +PG
+x 2018-10-01 Preguntarle a Charlie Stone por el sensor de viscosidad  +Mecanica +PG @UCR
+x 2018-10-01 {2018.10.01} Enviar a Doña Lourdes todo el formato necesario para el capítulo de la Guía Cultural Emprendedora +SocialShot
+x 2018-10-02 {2018.10.02} Decirle a Julio que Glenda y David tienen permiso de entrar al laboratorio +PG
+x 2018-10-05 {2018.10.03} Enviar capítulo de Doña Lourdes a Oxana +SocialShot
+x 2018-10-05 {2018.10.01} Tener listo el I Parcial +IM0412
+x 2018-10-08 {2018.10.03} Enviar correos a Fabián y Tatiana +SocialShot
+x 2018-10-08 Consultar con Jhymer de equipos de electrónica donados para el curso +IM0412
+x 2018-10-08 Revisar fuentes y osciloscopios de +IM0412
+x 2018-10-09 {2018.10.08} Coordinar reunión con HandsOn y Acceso Visual +SocialShot
+x 2018-10-10 {2018.10.09} Examen de reposición +IM0412
+x 2018-10-13 {2018.10.10} Soldar motor vibrador +PG
+x 2018-10-13 {2018.10.10} Formulario 9na edición +SocialShot
+x 2018-10-13 {2018.10.10} Preguntar de las mantas de porrismo +SocialShot
+x 2018-10-13 {2018.10.10} Cotizaciones Equipo @Mecatronica +Mecanica
+x 2018-10-23 Armar el circuito del problema 1 del I Parcial para comprobar resultado +IM0412
+x 2018-10-23 Devolverle los paneles a Yeimy +Personales
+x 2018-10-23 Envolver e imprimir regalo Diego +Personales
+x 2018-10-23 {2018.10.23} Revisar examenes de reposición +IM0412
