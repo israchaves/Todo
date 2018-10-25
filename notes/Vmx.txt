@@ -1,0 +1,9 @@
+# {2018.10.27} Cambiar la guía del Lab4 para que incluya el circuito de la Figura11-5 del Diodo Shocktty +IM0412
+
+Variar el voltaje de la fuente de 10 a 20 V, de 2 en 2 voltios
+Medir el voltaje Vrs para cada caso
+Calcular la corriente Irs con Ley de Ohm, para saber la corriente que se está aplicando al diodo
+Comprobar en la hoja de datos, la corriente y voltaje de operación del diodo Shocktty y comparar 
+contra los datos obtenidos
+Determinar, a partir de la tabla 1, el voltaje que cae en el diodo, para poder compararlo con el del
+datasheet luego
