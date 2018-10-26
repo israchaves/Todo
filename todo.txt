@@ -72,8 +72,6 @@ Revisar las fuentes, componentes, multímetros, osciloscopios del laboratorio +I
 {2018.10.10} Incluir torso en los renders @Humanoide +ARCOS
 {2018.10.11} Fechas en el calendario y el excel de fechas +Kiwi
 {2018.10.10} Revisar y enviar correcciones a Dimas +PG
-{2018.10.23} Mejoras y cambios al formulario +SocialShot
-{2018.10.23} Arreglar Nextcloud +Personales
 {2018.10.23} Responder oficio con solicitud de plaza +Mecanica @UCR
 {2018.10.24} Planear gira de Principios +IM0401 @Alajuela
 {2018.10.26} Averiguar todo del Régimen Académico y qué puedo presentar para subir +Personales @UCR

@@ -209,3 +209,5 @@ x 2018-10-23 Armar el circuito del problema 1 del I Parcial para comprobar resul
 x 2018-10-23 Devolverle los paneles a Yeimy +Personales
 x 2018-10-23 Envolver e imprimir regalo Diego +Personales
 x 2018-10-23 {2018.10.23} Revisar examenes de reposición +IM0412
+x 2018-10-25 {2018.10.23} Mejoras y cambios al formulario +SocialShot
+x 2018-10-25 {2018.10.23} Arreglar Nextcloud +Personales
