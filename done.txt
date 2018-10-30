@@ -212,3 +212,8 @@ x 2018-10-23 {2018.10.23} Revisar examenes de reposición +IM0412
 x 2018-10-25 {2018.10.23} Mejoras y cambios al formulario +SocialShot
 x 2018-10-25 {2018.10.23} Arreglar Nextcloud +Personales
 x 2018-10-25 {2018.10.23} Contactar a la traductora de LESCO +SocialShot
+x 2018-10-29 {2018.10.26} Pastillas +Personales @Jiggly
+x 2018-10-30 {2018.10.26} Sacar los 145 para el evento de mañana +Kiwi
+x 2018-10-30 {2018.10.26} Preguntar por el estado de la carretera para guápiles +Kiwi
+x 2018-10-30 Revisar instalación de SolidWorks para los laboratorios +TI-EIM
+x 2018-10-30 Revisar el documento de Dimas +PG
