@@ -51,7 +51,6 @@ Llevar el adaptador de HDMI a VGA a la latina +RobóticaLatina
 (B) Cotizar cargadores y decirle a Diosara  +RobóticaLatina
 Seguimiento al correo de graduación en limón el 9 de noviembre dmorap15 gmail.com +Kiwi
 Aprender de pensamiento visual  +Personales
-Reimprimir fotos de regalo de cumpleaños  @Jiggly
 Subir fotos y videos para Diosara +RobóticaLatina
 Pensar en los proyectos para este semestre y pasarle las cotizaciones a Jhymmer para que la escuela se los dejé +Mecanica @UCR
 Pensar en qué pedirle a Enertiva, visita técnica, charlaa, etc  @UCR +Mecanica
@@ -63,23 +62,17 @@ Pensar en un paño chiva de baño para regalo  @Jiggly
 2018-09-21 Estudiar @Coursera +Personales
 Revisar el software de inventario, boletas y formularios de Excel con Julio @RID +TI-EIM
 {2018.09.27} Formulario MeetUp +SocialShot
-(A) Revisar la lotería de las visas para USA +Personales @Jiggly
 Hablar con el encargado del taller EIE para preguntarle por los equipos para el curso +IM0412
 Revisar las fuentes, componentes, multímetros, osciloscopios del laboratorio +IM0412
 {2018.10.11} Contrato Ferra +Kiwi
 {2018.10.10} Incluir torso en los renders @Humanoide +ARCOS
 {2018.10.11} Fechas en el calendario y el excel de fechas +Kiwi
-{2018.10.10} Revisar y enviar correcciones a Dimas +PG
 (A) {2018.10.23} Responder oficio con solicitud de plaza +Mecanica @UCR
 {2018.10.24} Planear gira de Principios +IM0401 @Alajuela
 {2018.10.26} Averiguar todo del Régimen Académico y qué puedo presentar para subir +Personales @UCR
 Comenzar a usar Duolingo para Alemán e Inglés +Personales
 Para conectar la compu de dcmap con la compu de la mano se usa ensp50
-{2018.10.27} Cambiar la guía del Lab4 para que incluya el circuito de la Figura11-5 del Diodo Shocktty +IM0412 note:Vmx.txt
 Instalar Cura en los laboratorios +TI-EIM
 Seguimiento a la licencia de ANSYS +TI-EIM
-{2018.10.30} Cotización Halloween DYU +Kiwi
-{2018.10.30} Indicar correcciones a Alexis +Personales @Alemania
-{2018.10.30} Enviar horario de verano para Principios +Mecanica
-{2018.10.30} Guía de Laboratorio +IM0401 @Alajuela
-{2018.10.30} Avisar de la clase en el laboratorio para trabajar las simulaciones +IM0412
+Comprar cable retractil de ethernet +Personales
+{2018.11.07} Enviar correo a Jhymer para que presione para que pongan las pantallas de proyección en los laboratorios +TI-EIM @UCR
