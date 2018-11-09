@@ -228,3 +228,5 @@ x 2018-11-06 Revisar la lotería de las visas para USA +Personales @Jiggly
 x 2018-11-06 Reimprimir fotos de regalo de cumpleaños  @Jiggly
 x 2018-11-08 {2018.11.06} Factura electrónica Coopeservidores +Kiwi
 x 2018-11-08 {2018.11.07} Pastillas +Personales
+x 2018-11-08 {2018.09.27} Formulario MeetUp +SocialShot
+x 2018-11-08 {2018.10.26} Averiguar todo del Régimen Académico y qué puedo presentar para subir +Personales @UCR
