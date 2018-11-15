@@ -237,3 +237,6 @@ x 2018-11-09 {2018.10.24} Planear gira de Principios +IM0401 @Alajuela
 x 2018-11-12 {2018.11.07} Enviar correo a Jhymer para que presione para que pongan las pantallas de proyección en los laboratorios +TI-EIM @UCR
 x 2018-11-14 {2018.11.14} Subir la guía del laboratorio 7 +IM0412
 x 2018-11-14 {2018.11.14} Presentación Clase Unidad 7 +IM0412
+x 2018-11-15 {2018.11.14} Calcular piezas del proyecto de la mano robótica +IM0412
+x 2018-11-15 {2018.11.15} Correo a Cristhian con todo para la clase del sábado +RobóticaLatina
+x 2018-11-15 {2018.11.15} Correo a Diosara justificando ausencia del sábado y con los adaptadores +RobóticaLatina

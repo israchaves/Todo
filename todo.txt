@@ -82,10 +82,8 @@ Pensar en mandar el sonido del expositor directo a la compu del streaming para n
 Cambiar el plan de Telecable, actualizarlo para pagar lo mismo con más internet +Personales
 {2018.11.14} Definir la gira de Principios +IM0401
 {2018.11.14} Imprimir Delorean Mau +Personales
-{2018.11.14} Calcular piezas del proyecto de la mano robótica +IM0412
 {2018.11.15} Correo de información a todos los asistentes +SocialShot @InclusionSocial
 {2018.11.15} Invite de calendar +SocialShot @InclusionSocial
-{2018.11.15} Correo a Cristhian con todo para la clase del sábado +RobóticaLatina
-{2018.11.15} Correo a Diosara justificando ausencia del sábado y con los adaptadores +RobóticaLatina
 {2018.11.15} Depurar la lista de asistentes +SocialShot @InclusionSocial
 {2018.11.16} Ventilador para la planta de sonido de Macri +SocialShot @InclusionSocial
+{2018.11.16} Cables HDMI, de audio y todos los que ocupe para el evento +SocialShot @InclusionSocial
