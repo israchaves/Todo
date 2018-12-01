@@ -240,3 +240,38 @@ x 2018-11-14 {2018.11.14} Presentación Clase Unidad 7 +IM0412
 x 2018-11-15 {2018.11.14} Calcular piezas del proyecto de la mano robótica +IM0412
 x 2018-11-15 {2018.11.15} Correo a Cristhian con todo para la clase del sábado +RobóticaLatina
 x 2018-11-15 {2018.11.15} Correo a Diosara justificando ausencia del sábado y con los adaptadores +RobóticaLatina
+x 2018-11-20 {2018.11.13} Coordinar con Macri el equipo de sonido +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.13} Confirmar stands para el Fair +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.13} Revisar todo para la aplicación del streaming +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.14} Tener listo el manejo de las presentaciones para ese día +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.15} Tener listos los pilots y borradores para el evento +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.15} Correo de información a todos los asistentes +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.15} Invite de calendar +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.15} Depurar la lista de asistentes +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.16} Ventilador para la planta de sonido de Macri +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.16} Cables HDMI, de audio y todos los que ocupe para el evento +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.16} Tablets con app y las listas de gente registrada +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.16} Presentaciones de todos los expositores listas +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.16} Imágenes de todo, perfiles, panel, y demás, descargadas +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.16} Configurar y tener lista el app para proyectar con las 3 pantallas +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.16} Reloj para los expositores usando la Pi +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.16} Lista de música descargada Bossa Lounge +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.16} Recordarle a Karol del cable HDMI +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.16} Soldar el presentador mío de anillo y probarlo +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.16} Tómbola para la rifa de Selina +SocialShot @InclusionSocial
+x 2018-11-20 {2018.11.14} Imprimir Delorean Mau +Personales
+x 2018-11-20 Cotizar cargadores y decirle a Diosara  +RobóticaLatina
+x 2018-11-20 Calibrar impresora 3D +Personales
+x 2018-11-20 {2018.11.20} Resumenes NEC +IM0401
+x 2018-11-20 {2018.11.20} Revisar código Alberto +Mecanica @PG
+x 2018-11-20 Hablar con el encargado del taller EIE para preguntarle por los equipos para el curso +IM0412
+x 2018-11-26 {2018.11.20} Contestar correos de fiesta de la alegría y otros correos +Kiwi
+x 2018-11-27 {2018.11.26} Enviar todos los correos de info a la gente de la página de facebook +Kiwi
+x 2018-11-27 {2018.10.11} Fechas en el calendario y el excel de fechas +Kiwi
+x 2018-11-27 {2018.10.23} Responder oficio con solicitud de plaza +Mecanica @UCR
+x 2018-11-27 {2018.11.27} Cuenta y cálculo de Mouser para +PG
+x 2018-11-28 {2018.11.27} Examen II Parcial Imprimirlo +IM0412
+x 2018-12-01 {2018.11.14} Definir la gira de Principios +IM0401
+x 2018-12-01 Enviar el catálogo de correos a Laura de la boda de Ana Carolina +Kiwi
+x 2018-12-01 Seguimiento al correo de graduación en limón el 9 de noviembre dmorap15 gmail.com +Kiwi
+x 2018-12-01 Revisar kit de engranes de microjpm +Personales
