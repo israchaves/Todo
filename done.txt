@@ -275,3 +275,8 @@ x 2018-12-01 {2018.11.14} Definir la gira de Principios +IM0401
 x 2018-12-01 Enviar el catálogo de correos a Laura de la boda de Ana Carolina +Kiwi
 x 2018-12-01 Seguimiento al correo de graduación en limón el 9 de noviembre dmorap15 gmail.com +Kiwi
 x 2018-12-01 Revisar kit de engranes de microjpm +Personales
+x 2018-12-04 {2018.11.28} Declaración Hacienda +Personales
+x 2018-12-06 {2018.12.04} Presentación del ARCOS para captar gente +IM0412
+x 2018-12-06 {2018.12.04} Examen Reposicion +IM0412
+x 2018-12-06 {2018.12.05} Compartir la info de la UV impresora con Luis Castillo y las asistentes Jimena y Nicole +Mecanica
+x 2018-12-06 Pensar en qué pedirle a Enertiva, visita técnica, charlaa, etc  @UCR +Mecanica
