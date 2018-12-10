@@ -280,3 +280,5 @@ x 2018-12-06 {2018.12.04} Presentación del ARCOS para captar gente +IM0412
 x 2018-12-06 {2018.12.04} Examen Reposicion +IM0412
 x 2018-12-06 {2018.12.05} Compartir la info de la UV impresora con Luis Castillo y las asistentes Jimena y Nicole +Mecanica
 x 2018-12-06 Pensar en qué pedirle a Enertiva, visita técnica, charlaa, etc  @UCR +Mecanica
+x 2018-12-07 {2018.12.04} Revisar examenes +IM0412
+x 2018-12-07 Cambiar el plan de Telecable, actualizarlo para pagar lo mismo con más internet +Personales
