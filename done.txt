@@ -282,3 +282,8 @@ x 2018-12-06 {2018.12.05} Compartir la info de la UV impresora con Luis Castillo
 x 2018-12-06 Pensar en qué pedirle a Enertiva, visita técnica, charlaa, etc  @UCR +Mecanica
 x 2018-12-07 {2018.12.04} Revisar examenes +IM0412
 x 2018-12-07 Cambiar el plan de Telecable, actualizarlo para pagar lo mismo con más internet +Personales
+x 2018-12-12 {2018.12.06} Revisar examenes +IM0401
+x 2018-12-18 {2018.12.06} Lista de ideas de regalos para Navidad +Personales
+x 2018-12-18 {2018.12.13} Hablar con José David y Joaquín del curso de análisis
+x 2018-12-18 {2018.11.20} Formulario Feedback +SocialShot @InclusionSocial
+x 2018-12-18 {2018.10.11} Contrato Ferra +Kiwi
