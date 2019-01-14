@@ -77,3 +77,4 @@ Revisar exahustivamente los laboratorios +TI-EIM
 {2019.01.23} Pensar en hacer un script en android que descargue cada tanto el archivo de to dos +Personales
 {2019.01.23} Modificar el script de to dos para que con cada cambio, de cualquier tipo, haga lazygit +Personales
 {2019.01.15} Revisar las guías del laboratorio de Nelson y hacer las propias +IM0401
+{2019.01.15} Delantal @Jiggly +Personales
