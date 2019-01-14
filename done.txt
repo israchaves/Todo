@@ -292,3 +292,4 @@ x 2019-01-13 {2018.12.13} Programa del curso de Principios @Verano18 incluir el 
 x 2019-01-13 {2019.01.13} Revisar entorno virtual de Principios +IM0401
 x 2019-01-14 {2018.12.05} Revisar la interfaz gráfica de la compu +Personales
 x 2019-01-14 {2018.12.09} Instalar y configurar Insync para compartir el folder y archivo de las to do +Personales
+x 2019-01-14 {2019.01.14} Revisar compu del lab materiales +TI-EIM
