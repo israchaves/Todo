@@ -287,3 +287,8 @@ x 2018-12-18 {2018.12.06} Lista de ideas de regalos para Navidad +Personales
 x 2018-12-18 {2018.12.13} Hablar con José David y Joaquín del curso de análisis
 x 2018-12-18 {2018.11.20} Formulario Feedback +SocialShot @InclusionSocial
 x 2018-12-18 {2018.10.11} Contrato Ferra +Kiwi
+x 2019-01-08 {2018.12.28} Alistar bulto paseo +Personales note:VfF.txt
+x 2019-01-13 {2018.12.13} Programa del curso de Principios @Verano18 incluir el Laboratorio L 13 a 18:50 laboratorio 102 IE
+x 2019-01-13 {2019.01.13} Revisar entorno virtual de Principios +IM0401
+x 2019-01-14 {2018.12.05} Revisar la interfaz gráfica de la compu +Personales
+x 2019-01-14 {2018.12.09} Instalar y configurar Insync para compartir el folder y archivo de las to do +Personales

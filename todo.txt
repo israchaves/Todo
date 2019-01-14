@@ -68,9 +68,11 @@ Pensar en mandar el sonido del expositor directo a la compu del streaming para n
 Seguimiento Licencia de NI +TI-EIM
 Revisar exahustivamente los laboratorios +TI-EIM
 {2018.11.27} Install Mono Wine para correr el software de Hacienda +Personales
-{2018.12.05} Revisar la interfaz gráfica de la compu +Personales
-{2018.12.13} Programa del curso de Principios @Verano18 incluir el Laboratorio L 13 a 18:50 laboratorio 102 IE
 {2018.12.06} Definir qué tapas ocupan los lentes de las cámaras +Kiwi
 {2019.01.10} Planear visita técnica a Electromotores +IM0401
-{2018.12.09} Instalar y configurar Insync para compartir el folder y archivo de las to do +Personales
 {2018.12.13} Hablar con Marco Villalta de la licencia de ANSYS
+{2019.01.09} Revisar el servidor de taskwarrior, quedé en la diapositiva 59 +Personales
+{2019.01.16} Revisar el escrito de Francesca y compañeros +PG
+{2019.01.16} Pensar en los quices para los dos estudiantes, aplicarlo a las 11 am en la oficina de EIE +IE0409
+{2019.01.23} Pensar en hacer un script en android que descargue cada tanto el archivo de to dos +Personales
+{2019.01.23} Modificar el script de to dos para que con cada cambio, de cualquier tipo, haga lazygit +Personales
