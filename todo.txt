@@ -78,3 +78,4 @@ Revisar exahustivamente los laboratorios +TI-EIM
 {2019.01.23} Modificar el script de to dos para que con cada cambio, de cualquier tipo, haga lazygit +Personales
 {2019.01.15} Revisar las guías del laboratorio de Nelson y hacer las propias +IM0401
 {2019.01.15} Delantal @Jiggly +Personales
+{2019.01.14} Calcular la plata y matricular alemán A1c martes y jueves en la noche UBL +Personales
